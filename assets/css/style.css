@@ -24,8 +24,7 @@ a {
     height: 2rem;
     stroke: #fff;
     cursor: pointer;
-    z-index: 3;
-    pointer-events: none;
+    z-index: 10;
 }
 
 .nav .next {
